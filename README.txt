@@ -7,6 +7,10 @@ to execute these attacks simply run any command like the folowing regex.
 
 bash attack_[3-5].sh
 
+For attack_4.sh you will need to install dns-python with pip
+
+pip install dns-python
+
 Unfortunatly, while the scripts may execute, they will likly not work on another
 network without being edited due to the specified IP adresses included in them. If you
 intend to test the scripts on your own network, you will need to set up a DNS server
