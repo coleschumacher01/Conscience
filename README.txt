@@ -26,4 +26,5 @@ script. The last script, attack_5, used a c file (cflood) to flood the DNS serve
 instead of a python file. This brought the success rate back up to 77%.
 
 Demo: youtube.com/watch?v=T72EEVVh7WY
+Slides: https://docs.google.com/presentation/d/11wA5F7_HUnpV_4ysufCEzZDLL77MhJgR6bxqCi7Yn6k/edit#slide=id.p
 
